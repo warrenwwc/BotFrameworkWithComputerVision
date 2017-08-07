@@ -1,0 +1,43 @@
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\Bot Application.dll.config
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\Bot Application.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\Bot Application.pdb
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\Autofac.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\Chronic.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\Microsoft.Bot.Builder.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\Microsoft.Bot.Connector.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\Newtonsoft.Json.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\System.Net.Http.Formatting.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\System.Web.Http.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\System.Web.Http.WebHost.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\Autofac.xml
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\Microsoft.Bot.Builder.xml
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\Microsoft.Bot.Connector.xml
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\Newtonsoft.Json.xml
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\System.Net.Http.Formatting.xml
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\System.Web.Http.xml
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\System.Web.Http.WebHost.xml
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\it\Microsoft.Bot.Builder.resources.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\obj\Debug\CVApiBot.csprojResolveAssemblyReference.cache
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\obj\Debug\Bot Application.dll
+c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\obj\Debug\Bot Application.pdb
