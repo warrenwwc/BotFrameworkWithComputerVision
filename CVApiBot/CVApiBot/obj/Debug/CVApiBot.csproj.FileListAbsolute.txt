@@ -41,3 +41,46 @@ c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\bin\zh-
 c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\obj\Debug\CVApiBot.csprojResolveAssemblyReference.cache
 c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\obj\Debug\Bot Application.dll
 c:\users\a-wawon\documents\visual studio 2017\Projects\CVApiBot\CVApiBot\obj\Debug\Bot Application.pdb
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\Bot Application.dll.config
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\Bot Application.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\Bot Application.pdb
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\Autofac.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\Chronic.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\Microsoft.Bot.Builder.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\Microsoft.Bot.Connector.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\Newtonsoft.Json.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\System.Net.Http.Formatting.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\System.Web.Http.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\System.Web.Http.WebHost.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\Autofac.xml
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\Microsoft.Bot.Builder.xml
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\Microsoft.Bot.Connector.xml
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\Newtonsoft.Json.xml
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\System.Net.Http.Formatting.xml
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\System.Web.Http.xml
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\System.Web.Http.WebHost.xml
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\obj\Debug\CVApiBot.csprojResolveAssemblyReference.cache
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\obj\Debug\Bot Application.dll
+C:\Projects\BotFrameworkWithComputerVision\CVApiBot\CVApiBot\obj\Debug\Bot Application.pdb

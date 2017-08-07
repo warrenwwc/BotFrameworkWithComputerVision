@@ -89,7 +89,7 @@ namespace CVApiBot.Dialogs
             }
             else
             {
-                await context.PostAsync($"You sent {activity.Text} which was {length} characters");
+                await context.PostAsync("Please upload an image");
             }
 
             context.Wait(MessageReceivedAsync);
