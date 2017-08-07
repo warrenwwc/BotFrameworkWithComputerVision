@@ -6,7 +6,7 @@
 ---
 ## 2. Create Function App for uploading image
 ### 2.1. Create Function App in Azure
-![](images/functionapp1.PNG)
+![](images/functionapp1.PNG)  
 ![](images/functionapp2.PNG)
 ### 2.2. Create Blob storage in Azure
 ![](images/functionapp3.PNG)
