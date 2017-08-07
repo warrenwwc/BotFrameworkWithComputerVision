@@ -6,20 +6,20 @@
 ---
 ## 2. Create Function App for uploading image
 ### 2.1. Create Function App in Azure
-![](images/functionapp1.png)
-![](images/functionapp2.png)
+![](images/functionapp1.PNG)
+![](images/functionapp2.PNG)
 ### 2.2. Create Blob storage in Azure
-![](images/functionapp3.png)
-![](images/functionapp4.png)
-![](images/functionapp5.png)
+![](images/functionapp3.PNG)
+![](images/functionapp4.PNG)
+![](images/functionapp5.PNG)
 ###### Copy the connection string in Access key
-![](images/functionapp9.png)
+![](images/functionapp9.PNG)
 ### 2.3. Add new function in Function App
-![](images/functionapp6.png)
-![](images/functionapp7.png)
-![](images/functionapp8.png)
+![](images/functionapp6.PNG)
+![](images/functionapp7.PNG)
+![](images/functionapp8.PNG)
 ### 2.3. Edit the function and get url
-![](images/functionapp10.png)
+![](images/functionapp10.PNG)
 ###### Remember to paste the connection string in the code
 ```cs
 #r "Microsoft.WindowsAzure.Storage"
@@ -61,22 +61,22 @@ public static async Task<HttpResponseMessage> Run(HttpRequestMessage req, TraceW
 }
 ```
 ###### Then copy the function URL by clicking "</>Get function URL"
-![](images/functionapp11.png)
+![](images/functionapp11.PNG)
 ---
 ## 3. Register Computer Vision API
 ### 3.1. Create Computer Vision API in Azure
-![](images/cvapi1.png)
-![](images/cvapi2.png)
-![](images/cvapi3.png)
+![](images/cvapi1.PNG)
+![](images/cvapi2.PNG)
+![](images/cvapi3.PNG)
 ### 3.2. Go to the Computer Vision API and get Access key
-![](images/cvapi4.png)
-![](images/cvapi5.png)
-![](images/cvapi6.png)
+![](images/cvapi4.PNG)
+![](images/cvapi5.PNG)
+![](images/cvapi6.PNG)
 ---
 ## 4. Download the project and test
 ###### Make sure you have changed the API url and subscription key in RootDialog.cs
-![](images/bot1.png)
+![](images/bot1.PNG)
 ---
 ## 5. Outcome
-![](images/outcome1.png)
-![](images/outcome2.png)
+![](images/outcome1.PNG)
+![](images/outcome2.PNG)
