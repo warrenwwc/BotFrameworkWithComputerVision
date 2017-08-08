@@ -67,18 +67,18 @@ namespace CVApiBot.Dialogs
 
                 string base64ImageRepresentation = Convert.ToBase64String(attachmentData);
 
-                string url = "Your Image API URL";
+                string url = "Your Image Upload API Url";
 
                 var obj = new { img = base64ImageRepresentation };
 
                 var resUrl = httpPost(url, obj, new Dictionary<string, string> { }).Replace("\"", "");
 
-                string url2 = "Your Computer Vision API URL";
+                string url2 = "https://westus.api.cognitive.microsoft.com/vision/v1.0/analyze?visualFeatures=Description&language=en";
 
                 var obj2 = new { url = resUrl };
 
                 var cusHeaders = new Dictionary<string, string> {
-                    { "Ocp-Apim-Subscription-Key", "Your Computer Vision API Subscription Key" }
+                    { "Ocp-Apim-Subscription-Key", "Your Computer Vision API Access Key" }
                 };
 
                 var response = httpPost(url2, obj2, cusHeaders);
