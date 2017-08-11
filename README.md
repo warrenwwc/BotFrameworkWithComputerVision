@@ -46,7 +46,7 @@ public static async Task<HttpResponseMessage> Run(HttpRequestMessage req, TraceW
     log.Info(img);
 
     CloudStorageAccount storageAccount = CloudStorageAccount.Parse(
-                "Your connection string";
+                "Your connection string");
     CloudBlobClient blobClient = storageAccount.CreateCloudBlobClient();
     CloudBlobContainer container = blobClient.GetContainerReference("images");
     container.CreateIfNotExists();
